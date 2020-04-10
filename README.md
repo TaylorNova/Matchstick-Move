@@ -5,3 +5,5 @@ Move the matchstick to form the equation--Using searching method
 Given An untenable equation of matchsticks, taking measures to form the equation
 ## method
 DFS
+## Presentation form
+Visualized executable appliction
